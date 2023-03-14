@@ -7,7 +7,7 @@ import { useEffect } from "react"
 
 function App() {
   useEffect(() => {
-    document.title = "Digital Privacy Intervention"
+    document.title = "Digital Privacy Intervention - No Tutorial"
   }, [])
 
   return (
